@@ -1,66 +1,120 @@
-champion,bot,jng,mid,sup,top
-Aatrox,0.0,0.0,0.0,0.0,1.0
-Ahri,0.0,0.0,2.6457513110645907,0.0,0.0
-Akali,0.0,0.0,1.7320508075688772,0.0,0.0
-Akshan,0.0,0.0,1.0,0.0,0.0
-Alistar,0.0,0.0,0.0,1.4142135623730951,0.0
-Aphelios,3.4641016151377544,0.0,0.0,0.0,0.0
-Azir,0.0,0.0,1.7320508075688772,0.0,0.0
-Bel'Veth,0.0,1.0,0.0,0.0,0.0
-Caitlyn,1.4142135623730951,0.0,0.0,0.0,0.0
-Camille,0.0,0.0,0.0,0.0,2.449489742783178
-Corki,0.0,0.0,2.0,0.0,0.0
-Diana,0.0,1.7320508075688772,0.0,0.0,0.0
-Ezreal,2.0,0.0,0.0,0.0,0.0
-Galio,0.0,0.0,1.0,1.0,0.0
-Gangplank,0.0,0.0,0.0,0.0,2.6457513110645907
-Gnar,0.0,0.0,0.0,0.0,3.7416573867739413
-Graves,0.0,0.0,0.0,0.0,1.0
-Gwen,0.0,1.4142135623730951,0.0,0.0,1.4142135623730951
-Hecarim,0.0,1.7320508075688772,0.0,0.0,0.0
-Jarvan IV,0.0,1.4142135623730951,0.0,0.0,0.0
-Jax,0.0,0.0,0.0,0.0,1.4142135623730951
-Jayce,0.0,0.0,0.0,0.0,1.7320508075688772
-Jhin,1.4142135623730951,0.0,0.0,0.0,0.0
-Jinx,2.449489742783178,0.0,0.0,0.0,0.0
-Karma,0.0,0.0,0.0,1.0,0.0
-Kennen,0.0,0.0,0.0,0.0,1.4142135623730951
-LeBlanc,0.0,0.0,1.7320508075688772,0.0,0.0
-Lee Sin,0.0,1.7320508075688772,0.0,0.0,0.0
-Leona,0.0,0.0,0.0,1.0,0.0
-Lucian,1.0,0.0,0.0,0.0,0.0
-Lulu,0.0,0.0,0.0,1.0,0.0
-Nami,0.0,0.0,0.0,1.0,0.0
-Nautilus,0.0,0.0,0.0,2.23606797749979,0.0
-Olaf,0.0,1.7320508075688772,0.0,0.0,0.0
-Orianna,0.0,0.0,2.6457513110645907,0.0,0.0
-Ornn,0.0,0.0,0.0,0.0,1.4142135623730951
-Qiyana,0.0,1.0,0.0,0.0,0.0
-Rakan,0.0,0.0,0.0,2.23606797749979,0.0
-Renata Glasc,0.0,0.0,0.0,2.449489742783178,0.0
-Renekton,0.0,0.0,0.0,0.0,1.7320508075688772
-Ryze,0.0,0.0,1.7320508075688772,0.0,0.0
-Sejuani,0.0,0.0,0.0,0.0,1.0
-Senna,2.0,0.0,0.0,0.0,0.0
-Sivir,1.7320508075688772,0.0,0.0,0.0,0.0
-Swain,0.0,0.0,1.0,0.0,0.0
-Sylas,0.0,0.0,1.0,0.0,0.0
-Syndra,0.0,0.0,1.0,0.0,0.0
-Tahm Kench,0.0,0.0,0.0,3.4641016151377544,0.0
-Taliyah,0.0,0.0,1.4142135623730951,0.0,0.0
-Thresh,0.0,0.0,0.0,2.6457513110645907,0.0
-Trundle,0.0,2.6457513110645907,0.0,0.0,0.0
-Twisted Fate,0.0,0.0,1.4142135623730951,0.0,0.0
-Vayne,1.0,0.0,0.0,0.0,0.0
-Vex,0.0,0.0,1.0,0.0,0.0
-Viego,0.0,2.0,0.0,0.0,0.0
-Viktor,0.0,0.0,1.0,0.0,0.0
-Volibear,0.0,2.0,0.0,0.0,0.0
-Wukong,0.0,2.0,0.0,0.0,1.0
-Xayah,2.23606797749979,0.0,0.0,0.0,0.0
-Xin Zhao,0.0,2.8284271247461903,0.0,0.0,0.0
-Yasuo,0.0,0.0,1.4142135623730951,0.0,0.0
-Yone,0.0,0.0,1.0,0.0,0.0
-Yuumi,0.0,0.0,0.0,1.4142135623730951,0.0
-Zeri,2.23606797749979,0.0,0.0,0.0,0.0
-Zilean,0.0,0.0,1.0,1.0,0.0
+,teamname,Champion,bot,jng,mid,sup,top
+1071,Team Vitality,Aatrox,0.0,0.0,0.0,0.0,1.0
+1072,Team Vitality,Ahri,0.0,0.0,2.645751311,0.0,0.0
+1073,Team Vitality,Akali,0.0,0.0,1.732050808,0.0,0.0
+1074,Team Vitality,Akshan,0.0,0.0,1.0,0.0,0.0
+1075,Team Vitality,Alistar,0.0,0.0,0.0,1.414213562,0.0
+1076,Team Vitality,Amumu,0.0,0.0,0.0,0.0,0.0
+1077,Team Vitality,Aphelios,3.464101615,0.0,0.0,0.0,0.0
+1078,Team Vitality,Ashe,0.0,0.0,0.0,0.0,0.0
+1079,Team Vitality,Azir,0.0,0.0,1.732050808,0.0,0.0
+1080,Team Vitality,Bard,0.0,0.0,0.0,0.0,0.0
+1081,Team Vitality,Bel'Veth,0.0,1.0,0.0,0.0,0.0
+1082,Team Vitality,Blitzcrank,0.0,0.0,0.0,0.0,0.0
+1083,Team Vitality,Braum,0.0,0.0,0.0,0.0,0.0
+1084,Team Vitality,Caitlyn,1.414213562,0.0,0.0,0.0,0.0
+1085,Team Vitality,Camille,0.0,0.0,0.0,0.0,2.449489743
+1086,Team Vitality,Cassiopeia,0.0,0.0,0.0,0.0,0.0
+1087,Team Vitality,Corki,0.0,0.0,2.0,0.0,0.0
+1088,Team Vitality,Darius,0.0,0.0,0.0,0.0,0.0
+1089,Team Vitality,Diana,0.0,1.732050808,0.0,0.0,0.0
+1090,Team Vitality,Draven,0.0,0.0,0.0,0.0,0.0
+1091,Team Vitality,Ezreal,2.0,0.0,0.0,0.0,0.0
+1092,Team Vitality,Fiora,0.0,0.0,0.0,0.0,0.0
+1093,Team Vitality,Galio,0.0,0.0,1.0,1.0,0.0
+1094,Team Vitality,Gangplank,0.0,0.0,0.0,0.0,2.645751311
+1095,Team Vitality,Gnar,0.0,0.0,0.0,0.0,3.741657387
+1096,Team Vitality,Gragas,0.0,0.0,0.0,0.0,0.0
+1097,Team Vitality,Graves,0.0,0.0,0.0,0.0,1.0
+1098,Team Vitality,Gwen,0.0,1.414213562,0.0,0.0,1.414213562
+1099,Team Vitality,Hecarim,0.0,1.732050808,0.0,0.0,0.0
+1100,Team Vitality,Irelia,0.0,0.0,0.0,0.0,0.0
+1101,Team Vitality,Janna,0.0,0.0,0.0,0.0,0.0
+1102,Team Vitality,Jarvan IV,0.0,1.414213562,0.0,0.0,0.0
+1103,Team Vitality,Jax,0.0,0.0,0.0,0.0,1.414213562
+1104,Team Vitality,Jayce,0.0,0.0,0.0,0.0,1.732050808
+1105,Team Vitality,Jhin,1.414213562,0.0,0.0,0.0,0.0
+1106,Team Vitality,Jinx,2.449489743,0.0,0.0,0.0,0.0
+1107,Team Vitality,Kai'Sa,0.0,0.0,0.0,0.0,0.0
+1108,Team Vitality,Kalista,0.0,0.0,0.0,0.0,0.0
+1109,Team Vitality,Karma,0.0,0.0,0.0,1.0,0.0
+1110,Team Vitality,Karthus,0.0,0.0,0.0,0.0,0.0
+1111,Team Vitality,Kassadin,0.0,0.0,0.0,0.0,0.0
+1112,Team Vitality,Kayle,0.0,0.0,0.0,0.0,0.0
+1113,Team Vitality,Kennen,0.0,0.0,0.0,0.0,1.414213562
+1114,Team Vitality,Kled,0.0,0.0,0.0,0.0,0.0
+1115,Team Vitality,Kog'Maw,0.0,0.0,0.0,0.0,0.0
+1116,Team Vitality,LeBlanc,0.0,0.0,1.732050808,0.0,0.0
+1117,Team Vitality,Lee Sin,0.0,1.732050808,0.0,0.0,0.0
+1118,Team Vitality,Leona,0.0,0.0,0.0,1.0,0.0
+1119,Team Vitality,Lillia,0.0,0.0,0.0,0.0,0.0
+1120,Team Vitality,Lissandra,0.0,0.0,0.0,0.0,0.0
+1121,Team Vitality,Lucian,1.0,0.0,0.0,0.0,0.0
+1122,Team Vitality,Lulu,0.0,0.0,0.0,1.0,0.0
+1123,Team Vitality,Lux,0.0,0.0,0.0,0.0,0.0
+1124,Team Vitality,Malphite,0.0,0.0,0.0,0.0,0.0
+1125,Team Vitality,Malzahar,0.0,0.0,0.0,0.0,0.0
+1126,Team Vitality,Miss Fortune,0.0,0.0,0.0,0.0,0.0
+1127,Team Vitality,Mordekaiser,0.0,0.0,0.0,0.0,0.0
+1128,Team Vitality,Morgana,0.0,0.0,0.0,0.0,0.0
+1129,Team Vitality,Nami,0.0,0.0,0.0,1.0,0.0
+1130,Team Vitality,Nautilus,0.0,0.0,0.0,2.236067977,0.0
+1131,Team Vitality,Nidalee,0.0,0.0,0.0,0.0,0.0
+1132,Team Vitality,Nilah,0.0,0.0,0.0,0.0,0.0
+1133,Team Vitality,Nocturne,0.0,0.0,0.0,0.0,0.0
+1134,Team Vitality,Olaf,0.0,1.732050808,0.0,0.0,0.0
+1135,Team Vitality,Orianna,0.0,0.0,2.645751311,0.0,0.0
+1136,Team Vitality,Ornn,0.0,0.0,0.0,0.0,1.414213562
+1137,Team Vitality,Pantheon,0.0,0.0,0.0,0.0,0.0
+1138,Team Vitality,Poppy,0.0,0.0,0.0,0.0,0.0
+1139,Team Vitality,Pyke,0.0,0.0,0.0,0.0,0.0
+1140,Team Vitality,Qiyana,0.0,1.0,0.0,0.0,0.0
+1141,Team Vitality,Rakan,0.0,0.0,0.0,2.236067977,0.0
+1142,Team Vitality,Rell,0.0,0.0,0.0,0.0,0.0
+1143,Team Vitality,Renata Glasc,0.0,0.0,0.0,2.449489743,0.0
+1144,Team Vitality,Renekton,0.0,0.0,0.0,0.0,1.732050808
+1145,Team Vitality,Rumble,0.0,0.0,0.0,0.0,0.0
+1146,Team Vitality,Ryze,0.0,0.0,1.732050808,0.0,0.0
+1147,Team Vitality,Samira,0.0,0.0,0.0,0.0,0.0
+1148,Team Vitality,Sejuani,0.0,0.0,0.0,0.0,1.0
+1149,Team Vitality,Senna,2.0,0.0,0.0,0.0,0.0
+1150,Team Vitality,Seraphine,0.0,0.0,0.0,0.0,0.0
+1151,Team Vitality,Sett,0.0,0.0,0.0,0.0,0.0
+1152,Team Vitality,Shyvana,0.0,0.0,0.0,0.0,0.0
+1153,Team Vitality,Sion,0.0,0.0,0.0,0.0,0.0
+1154,Team Vitality,Sivir,1.732050808,0.0,0.0,0.0,0.0
+1155,Team Vitality,Skarner,0.0,0.0,0.0,0.0,0.0
+1156,Team Vitality,Sona,0.0,0.0,0.0,0.0,0.0
+1157,Team Vitality,Soraka,0.0,0.0,0.0,0.0,0.0
+1158,Team Vitality,Swain,0.0,0.0,1.0,0.0,0.0
+1159,Team Vitality,Sylas,0.0,0.0,1.0,0.0,0.0
+1160,Team Vitality,Syndra,0.0,0.0,1.0,0.0,0.0
+1161,Team Vitality,Tahm Kench,0.0,0.0,0.0,3.464101615,0.0
+1162,Team Vitality,Taliyah,0.0,0.0,1.414213562,0.0,0.0
+1163,Team Vitality,Taric,0.0,0.0,0.0,0.0,0.0
+1164,Team Vitality,Thresh,0.0,0.0,0.0,2.645751311,0.0
+1165,Team Vitality,Tristana,0.0,0.0,0.0,0.0,0.0
+1166,Team Vitality,Trundle,0.0,2.645751311,0.0,0.0,0.0
+1167,Team Vitality,Tryndamere,0.0,0.0,0.0,0.0,0.0
+1168,Team Vitality,Twisted Fate,0.0,0.0,1.414213562,0.0,0.0
+1169,Team Vitality,Twitch,0.0,0.0,0.0,0.0,0.0
+1170,Team Vitality,Varus,0.0,0.0,0.0,0.0,0.0
+1171,Team Vitality,Vayne,1.0,0.0,0.0,0.0,0.0
+1172,Team Vitality,Veigar,0.0,0.0,0.0,0.0,0.0
+1173,Team Vitality,Vex,0.0,0.0,1.0,0.0,0.0
+1174,Team Vitality,Vi,0.0,0.0,0.0,0.0,0.0
+1175,Team Vitality,Viego,0.0,2.0,0.0,0.0,0.0
+1176,Team Vitality,Viktor,0.0,0.0,1.0,0.0,0.0
+1177,Team Vitality,Volibear,0.0,2.0,0.0,0.0,0.0
+1178,Team Vitality,Wukong,0.0,2.0,0.0,0.0,1.0
+1179,Team Vitality,Xayah,2.236067977,0.0,0.0,0.0,0.0
+1180,Team Vitality,Xin Zhao,0.0,2.828427125,0.0,0.0,0.0
+1181,Team Vitality,Yasuo,0.0,0.0,1.414213562,0.0,0.0
+1182,Team Vitality,Yone,0.0,0.0,1.0,0.0,0.0
+1183,Team Vitality,Yuumi,0.0,0.0,0.0,1.414213562,0.0
+1184,Team Vitality,Zac,0.0,0.0,0.0,0.0,0.0
+1185,Team Vitality,Zeri,2.236067977,0.0,0.0,0.0,0.0
+1186,Team Vitality,Ziggs,0.0,0.0,0.0,0.0,0.0
+1187,Team Vitality,Zilean,0.0,0.0,1.0,1.0,0.0
+1188,Team Vitality,Zoe,0.0,0.0,0.0,0.0,0.0
+1189,Team Vitality,Zyra,0.0,0.0,0.0,0.0,0.0
