@@ -1,76 +1,120 @@
-champion,bot,jng,mid,sup,top
-Ahri,0.0,0.0,2.449489742783178,0.0,0.0
-Akali,0.0,0.0,1.0,0.0,0.0
-Aphelios,2.6457513110645907,0.0,0.0,0.0,0.0
-Azir,0.0,0.0,1.4142135623730951,0.0,0.0
-Bard,0.0,0.0,0.0,1.0,0.0
-Braum,0.0,0.0,0.0,1.4142135623730951,0.0
-Caitlyn,1.0,0.0,0.0,0.0,0.0
-Camille,0.0,0.0,0.0,0.0,1.4142135623730951
-Corki,0.0,0.0,2.449489742783178,0.0,0.0
-Draven,1.7320508075688772,0.0,0.0,0.0,0.0
-Ezreal,1.0,0.0,0.0,0.0,0.0
-Galio,0.0,0.0,0.0,1.0,0.0
-Gangplank,0.0,0.0,0.0,0.0,2.449489742783178
-Gnar,0.0,0.0,0.0,0.0,2.23606797749979
-Graves,0.0,0.0,0.0,0.0,1.4142135623730951
-Gwen,0.0,0.0,0.0,0.0,2.8284271247461903
-Hecarim,0.0,1.0,0.0,0.0,0.0
-Irelia,0.0,0.0,0.0,0.0,1.4142135623730951
-Janna,0.0,0.0,0.0,1.0,0.0
-Jarvan IV,0.0,2.0,0.0,0.0,0.0
-Jax,0.0,0.0,0.0,0.0,1.0
-Jayce,0.0,0.0,0.0,0.0,1.4142135623730951
-Jinx,3.4641016151377544,0.0,0.0,0.0,0.0
-Kai'Sa,0.0,0.0,1.0,0.0,0.0
-Kalista,1.4142135623730951,0.0,0.0,0.0,0.0
-Kayle,0.0,0.0,0.0,0.0,1.0
-Kennen,0.0,0.0,0.0,0.0,1.0
-Kled,0.0,0.0,0.0,0.0,1.4142135623730951
-LeBlanc,0.0,0.0,1.7320508075688772,0.0,0.0
-Lee Sin,0.0,2.0,0.0,0.0,0.0
-Leona,0.0,0.0,0.0,1.7320508075688772,0.0
-Lissandra,0.0,0.0,2.6457513110645907,0.0,0.0
-Lucian,2.0,0.0,0.0,0.0,0.0
-Lulu,0.0,0.0,0.0,2.23606797749979,0.0
-Lux,0.0,0.0,0.0,1.4142135623730951,0.0
-Malphite,0.0,0.0,0.0,0.0,1.4142135623730951
-Malzahar,0.0,0.0,1.0,0.0,0.0
-Mordekaiser,0.0,0.0,0.0,0.0,1.0
-Nami,0.0,0.0,0.0,2.0,0.0
-Nautilus,0.0,0.0,0.0,2.0,0.0
-Nilah,1.7320508075688772,0.0,0.0,0.0,0.0
-Nocturne,0.0,0.0,1.0,0.0,0.0
-Ornn,0.0,0.0,0.0,0.0,2.0
-Poppy,0.0,1.4142135623730951,0.0,0.0,0.0
-Rakan,0.0,0.0,0.0,2.0,0.0
-Renata Glasc,0.0,0.0,0.0,1.4142135623730951,0.0
-Ryze,0.0,0.0,1.7320508075688772,0.0,0.0
-Samira,1.0,0.0,0.0,0.0,0.0
-Sejuani,0.0,1.7320508075688772,0.0,0.0,2.0
-Senna,1.0,0.0,0.0,0.0,0.0
-Sion,0.0,0.0,0.0,0.0,1.4142135623730951
-Sivir,2.23606797749979,0.0,0.0,0.0,0.0
-Sona,0.0,0.0,1.0,0.0,0.0
-Sylas,0.0,0.0,1.0,0.0,0.0
-Tahm Kench,0.0,0.0,0.0,1.7320508075688772,0.0
-Taliyah,0.0,0.0,2.0,0.0,0.0
-Taric,0.0,0.0,0.0,1.0,0.0
-Thresh,0.0,0.0,0.0,2.0,0.0
-Trundle,0.0,2.449489742783178,0.0,0.0,0.0
-Tryndamere,0.0,0.0,0.0,0.0,1.4142135623730951
-Twisted Fate,0.0,0.0,2.0,0.0,0.0
-Twitch,1.0,0.0,0.0,0.0,0.0
-Varus,1.0,0.0,0.0,0.0,0.0
-Veigar,0.0,0.0,1.7320508075688772,0.0,0.0
-Vex,0.0,0.0,1.0,0.0,0.0
-Vi,0.0,1.0,0.0,0.0,0.0
-Viego,0.0,2.23606797749979,0.0,0.0,0.0
-Viktor,0.0,0.0,1.0,0.0,0.0
-Volibear,0.0,2.0,0.0,0.0,0.0
-Wukong,0.0,2.8284271247461903,0.0,0.0,0.0
-Xayah,1.4142135623730951,0.0,0.0,0.0,0.0
-Xin Zhao,0.0,3.0,0.0,0.0,0.0
-Yuumi,0.0,0.0,0.0,2.8284271247461903,0.0
-Zeri,1.7320508075688772,0.0,1.0,0.0,0.0
-Zilean,0.0,0.0,0.0,1.4142135623730951,0.0
+,teamname,Champion,bot,jng,mid,sup,top
+119,Excel Esports,Aatrox,0.0,0.0,0.0,0.0,0.0
+120,Excel Esports,Ahri,0.0,0.0,2.449489743,0.0,0.0
+121,Excel Esports,Akali,0.0,0.0,1.0,0.0,0.0
+122,Excel Esports,Akshan,0.0,0.0,0.0,0.0,0.0
+123,Excel Esports,Alistar,0.0,0.0,0.0,0.0,0.0
+124,Excel Esports,Amumu,0.0,0.0,0.0,0.0,0.0
+125,Excel Esports,Aphelios,2.645751311,0.0,0.0,0.0,0.0
+126,Excel Esports,Ashe,0.0,0.0,0.0,0.0,0.0
+127,Excel Esports,Azir,0.0,0.0,1.414213562,0.0,0.0
+128,Excel Esports,Bard,0.0,0.0,0.0,1.0,0.0
+129,Excel Esports,Bel'Veth,0.0,0.0,0.0,0.0,0.0
+130,Excel Esports,Blitzcrank,0.0,0.0,0.0,0.0,0.0
+131,Excel Esports,Braum,0.0,0.0,0.0,1.414213562,0.0
+132,Excel Esports,Caitlyn,1.0,0.0,0.0,0.0,0.0
+133,Excel Esports,Camille,0.0,0.0,0.0,0.0,1.414213562
+134,Excel Esports,Cassiopeia,0.0,0.0,0.0,0.0,0.0
+135,Excel Esports,Corki,0.0,0.0,2.449489743,0.0,0.0
+136,Excel Esports,Darius,0.0,0.0,0.0,0.0,0.0
+137,Excel Esports,Diana,0.0,0.0,0.0,0.0,0.0
+138,Excel Esports,Draven,1.732050808,0.0,0.0,0.0,0.0
+139,Excel Esports,Ezreal,1.0,0.0,0.0,0.0,0.0
+140,Excel Esports,Fiora,0.0,0.0,0.0,0.0,0.0
+141,Excel Esports,Galio,0.0,0.0,0.0,1.0,0.0
+142,Excel Esports,Gangplank,0.0,0.0,0.0,0.0,2.449489743
+143,Excel Esports,Gnar,0.0,0.0,0.0,0.0,2.236067977
+144,Excel Esports,Gragas,0.0,0.0,0.0,0.0,0.0
+145,Excel Esports,Graves,0.0,0.0,0.0,0.0,1.414213562
+146,Excel Esports,Gwen,0.0,0.0,0.0,0.0,2.828427125
+147,Excel Esports,Hecarim,0.0,1.0,0.0,0.0,0.0
+148,Excel Esports,Irelia,0.0,0.0,0.0,0.0,1.414213562
+149,Excel Esports,Janna,0.0,0.0,0.0,1.0,0.0
+150,Excel Esports,Jarvan IV,0.0,2.0,0.0,0.0,0.0
+151,Excel Esports,Jax,0.0,0.0,0.0,0.0,1.0
+152,Excel Esports,Jayce,0.0,0.0,0.0,0.0,1.414213562
+153,Excel Esports,Jhin,0.0,0.0,0.0,0.0,0.0
+154,Excel Esports,Jinx,3.464101615,0.0,0.0,0.0,0.0
+155,Excel Esports,Kai'Sa,0.0,0.0,1.0,0.0,0.0
+156,Excel Esports,Kalista,1.414213562,0.0,0.0,0.0,0.0
+157,Excel Esports,Karma,0.0,0.0,0.0,0.0,0.0
+158,Excel Esports,Karthus,0.0,0.0,0.0,0.0,0.0
+159,Excel Esports,Kassadin,0.0,0.0,0.0,0.0,0.0
+160,Excel Esports,Kayle,0.0,0.0,0.0,0.0,1.0
+161,Excel Esports,Kennen,0.0,0.0,0.0,0.0,1.0
+162,Excel Esports,Kled,0.0,0.0,0.0,0.0,1.414213562
+163,Excel Esports,Kog'Maw,0.0,0.0,0.0,0.0,0.0
+164,Excel Esports,LeBlanc,0.0,0.0,1.732050808,0.0,0.0
+165,Excel Esports,Lee Sin,0.0,2.0,0.0,0.0,0.0
+166,Excel Esports,Leona,0.0,0.0,0.0,1.732050808,0.0
+167,Excel Esports,Lillia,0.0,0.0,0.0,0.0,0.0
+168,Excel Esports,Lissandra,0.0,0.0,2.645751311,0.0,0.0
+169,Excel Esports,Lucian,2.0,0.0,0.0,0.0,0.0
+170,Excel Esports,Lulu,0.0,0.0,0.0,2.236067977,0.0
+171,Excel Esports,Lux,0.0,0.0,0.0,1.414213562,0.0
+172,Excel Esports,Malphite,0.0,0.0,0.0,0.0,1.414213562
+173,Excel Esports,Malzahar,0.0,0.0,1.0,0.0,0.0
+174,Excel Esports,Miss Fortune,0.0,0.0,0.0,0.0,0.0
+175,Excel Esports,Mordekaiser,0.0,0.0,0.0,0.0,1.0
+176,Excel Esports,Morgana,0.0,0.0,0.0,0.0,0.0
+177,Excel Esports,Nami,0.0,0.0,0.0,2.0,0.0
+178,Excel Esports,Nautilus,0.0,0.0,0.0,2.0,0.0
+179,Excel Esports,Nidalee,0.0,0.0,0.0,0.0,0.0
+180,Excel Esports,Nilah,1.732050808,0.0,0.0,0.0,0.0
+181,Excel Esports,Nocturne,0.0,0.0,1.0,0.0,0.0
+182,Excel Esports,Olaf,0.0,0.0,0.0,0.0,0.0
+183,Excel Esports,Orianna,0.0,0.0,0.0,0.0,0.0
+184,Excel Esports,Ornn,0.0,0.0,0.0,0.0,2.0
+185,Excel Esports,Pantheon,0.0,0.0,0.0,0.0,0.0
+186,Excel Esports,Poppy,0.0,1.414213562,0.0,0.0,0.0
+187,Excel Esports,Pyke,0.0,0.0,0.0,0.0,0.0
+188,Excel Esports,Qiyana,0.0,0.0,0.0,0.0,0.0
+189,Excel Esports,Rakan,0.0,0.0,0.0,2.0,0.0
+190,Excel Esports,Rell,0.0,0.0,0.0,0.0,0.0
+191,Excel Esports,Renata Glasc,0.0,0.0,0.0,1.414213562,0.0
+192,Excel Esports,Renekton,0.0,0.0,0.0,0.0,0.0
+193,Excel Esports,Rumble,0.0,0.0,0.0,0.0,0.0
+194,Excel Esports,Ryze,0.0,0.0,1.732050808,0.0,0.0
+195,Excel Esports,Samira,1.0,0.0,0.0,0.0,0.0
+196,Excel Esports,Sejuani,0.0,1.732050808,0.0,0.0,2.0
+197,Excel Esports,Senna,1.0,0.0,0.0,0.0,0.0
+198,Excel Esports,Seraphine,0.0,0.0,0.0,0.0,0.0
+199,Excel Esports,Sett,0.0,0.0,0.0,0.0,0.0
+200,Excel Esports,Shyvana,0.0,0.0,0.0,0.0,0.0
+201,Excel Esports,Sion,0.0,0.0,0.0,0.0,1.414213562
+202,Excel Esports,Sivir,2.236067977,0.0,0.0,0.0,0.0
+203,Excel Esports,Skarner,0.0,0.0,0.0,0.0,0.0
+204,Excel Esports,Sona,0.0,0.0,1.0,0.0,0.0
+205,Excel Esports,Soraka,0.0,0.0,0.0,0.0,0.0
+206,Excel Esports,Swain,0.0,0.0,0.0,0.0,0.0
+207,Excel Esports,Sylas,0.0,0.0,1.0,0.0,0.0
+208,Excel Esports,Syndra,0.0,0.0,0.0,0.0,0.0
+209,Excel Esports,Tahm Kench,0.0,0.0,0.0,1.732050808,0.0
+210,Excel Esports,Taliyah,0.0,0.0,2.0,0.0,0.0
+211,Excel Esports,Taric,0.0,0.0,0.0,1.0,0.0
+212,Excel Esports,Thresh,0.0,0.0,0.0,2.0,0.0
+213,Excel Esports,Tristana,0.0,0.0,0.0,0.0,0.0
+214,Excel Esports,Trundle,0.0,2.449489743,0.0,0.0,0.0
+215,Excel Esports,Tryndamere,0.0,0.0,0.0,0.0,1.414213562
+216,Excel Esports,Twisted Fate,0.0,0.0,2.0,0.0,0.0
+217,Excel Esports,Twitch,1.0,0.0,0.0,0.0,0.0
+218,Excel Esports,Varus,1.0,0.0,0.0,0.0,0.0
+219,Excel Esports,Vayne,0.0,0.0,0.0,0.0,0.0
+220,Excel Esports,Veigar,0.0,0.0,1.732050808,0.0,0.0
+221,Excel Esports,Vex,0.0,0.0,1.0,0.0,0.0
+222,Excel Esports,Vi,0.0,1.0,0.0,0.0,0.0
+223,Excel Esports,Viego,0.0,2.236067977,0.0,0.0,0.0
+224,Excel Esports,Viktor,0.0,0.0,1.0,0.0,0.0
+225,Excel Esports,Volibear,0.0,2.0,0.0,0.0,0.0
+226,Excel Esports,Wukong,0.0,2.828427125,0.0,0.0,0.0
+227,Excel Esports,Xayah,1.414213562,0.0,0.0,0.0,0.0
+228,Excel Esports,Xin Zhao,0.0,3.0,0.0,0.0,0.0
+229,Excel Esports,Yasuo,0.0,0.0,0.0,0.0,0.0
+230,Excel Esports,Yone,0.0,0.0,0.0,0.0,0.0
+231,Excel Esports,Yuumi,0.0,0.0,0.0,2.828427125,0.0
+232,Excel Esports,Zac,0.0,0.0,0.0,0.0,0.0
+233,Excel Esports,Zeri,1.732050808,0.0,1.0,0.0,0.0
+234,Excel Esports,Ziggs,0.0,0.0,0.0,0.0,0.0
+235,Excel Esports,Zilean,0.0,0.0,0.0,1.414213562,0.0
+236,Excel Esports,Zoe,0.0,0.0,0.0,0.0,0.0
+237,Excel Esports,Zyra,0.0,0.0,0.0,0.0,0.0
