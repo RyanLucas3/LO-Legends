@@ -1,0 +1,22 @@
+{
+    "blue_ban1": "Aphelios",
+    "blue_ban2": "Gwen",
+    "blue_ban3": "Akali",
+    "blue_ban4": "Gnar",
+    "blue_ban5": "Viego",
+    "blue_select1": "Azir",
+    "blue_select2": "Diana",
+    "blue_select3": "Jinx",
+    "blue_select4": "Camille",
+    "blue_select5": "Hecarim",
+    "red_ban1": "Corki",
+    "red_ban2": "Darius",
+    "red_ban3": "Jax",
+    "red_ban4": "Karma",
+    "red_ban5": "Lux",
+    "red_select1": "Malphite",
+    "red_select2": "Morgana",
+    "red_select3": "Nami",
+    "red_select4": "Lucian",
+    "red_select5": "Ornn"
+}

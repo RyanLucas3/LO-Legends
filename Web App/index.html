@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>League of Legends Draft Manager</title>
+
+    <script src = "js/main.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <link rel = "stylesheet" href = "css/styles.css"/> 
+</head>
+<body>
+    <div id = "container">
+    <div id = "game">
+    <header>
+        <h1 class = "title"> League of Legends Draft Optimization </h1>
+    </header>
+    <div id = "content">
+      <div >
+          <select id = "blue_select" onchange="blueSelect()">
+            <option value="" disabled selected>Select Blue Team</option>
+            <option id= "b_1" value="Astralis">Astralis</option>
+            <option id= "b_2" value="Excel ESports">Excel ESports</option>
+            <option id= "b_3" value="Fnatic">Fnatic</option>
+            <option id= "b_4" value="G2 Esports">G2 Esports</option>
+            <option id= "b_5" value="MAD Lions">MAD Lions</option>
+            <option id= "b_6" value="Misfits Gaming">Misfits Gaming</option>
+            <option id= "b_7" value="Rogue">Rogue</option>
+            <option id= "b_8" value="SK Gaming">SK Gaming</option>
+            <option id= "b_9" value="Team BDS">Team BDS</option>
+            <option id= "b_10" value="Team Vitality">Team Vitality</option>
+          </select>
+      </div>
+      <div>
+        <select id ="red_select" onchange="redSelect()" disabled>
+            <option value="" disabled selected>Select Red Team</option>
+            <option id= "r_1" value="Astralis">Astralis</option>
+            <option id= "r_2" value="Excel ESports">Excel ESports</option>
+            <option id= "r_3" value="Fnatic">Fnatic</option>
+            <option id= "r_4" value="G2 Esports">G2 Esports</option>
+            <option id= "r_5" value="MAD Lions">MAD Lions</option>
+            <option id= "r_6" value="Misfits Gaming">Misfits Gaming</option>
+            <option id= "r_7"  value="Rogue">Rogue</option>
+            <option id= "r_8" value="SK Gaming">SK Gaming</option>
+            <option id= "r_9" value="Team BDS">Team BDS</option>
+            <option id= "r_10" value="Team Vitality">Team Vitality</option>
+        </select>
+      </div>
+      <div >
+        <select id = "model_select" onchange="modelSelect()" disabled>
+            <option value="" disabled selected>Select Model</option>
+            <option value="historical">Historical Results</option>
+            <option value="sequential">Sequential Optimal</option>
+            <option value="stochastic">Sequential Stochastic</option>
+            <option value="deterministic">Simultaneous Optimal</option>
+            <option value="robust1">Simultaneous Robust 1</option>
+            <option value="robust2">Simultaneous Robust 2</option>
+            <option value="robust3">Simultaneous Robust 3</option>
+        </select>
+      </div>
+      <div id="board-container">        
+          <div id="board"></div>
+      </div>
+    </div>
+
+    <!-- <div class="container">
+        <img src="img_snow.jpg" alt="Snow">
+        <button class="btn">Button</button>
+      </div> -->
+
+      <!-- <div class="row">
+        <div class="column">
+          <img src="./new_imgs/Aatrox.jpg" alt="Nature" onclick="myFunction(this);">
+        </div>
+        <div class="column">
+          <img src="./new_imgs/Ahri.jpg" alt="Snow" onclick="myFunction(this);">
+        </div>
+        <div class="column">
+          <img src="./new_imgs/Leona.jpg" alt="Mountains" onclick="myFunction(this);">
+        </div>
+        <div class="column">
+          <img src="./new_imgs/Bard.jpg" alt="Lights" onclick="myFunction(this);">
+        </div>
+        <div class="column">
+            <img src="./new_imgs/Bard.jpg" alt="Lights" onclick="myFunction(this);">
+          </div>
+      </div>
+
+      <div class="row">
+        <div class="column">
+          <img src="./new_imgs/Aatrox.jpg" alt="Nature" onclick="myFunction(this);">
+        </div>
+        <div class="column">
+          <img src="./new_imgs/Ahri.jpg" alt="Snow" onclick="myFunction(this);">
+        </div>
+        <div class="column">
+          <img src="./new_imgs/Amumu.jpg" alt="Mountains" onclick="myFunction(this);">
+        </div>
+        <div class="column">
+          <img src="./new_imgs/Bard.jpg" alt="Lights" onclick="myFunction(this);">
+        </div>
+        <div class="column">
+            <img src="./new_imgs/Bard.jpg" alt="Lights" onclick="myFunction(this);">
+          </div>
+      </div>
+
+      <div class="row">
+        <div class="column">
+          <img src="./new_imgs/Aatrox.jpg" alt="Nature" onclick="myFunction(this);">
+        </div>
+        <div class="column">
+          <img src="./new_imgs/Ahri.jpg" alt="Snow" onclick="myFunction(this);">
+        </div>
+        <div class="column">
+          <img src="./new_imgs/Amumu.jpg" alt="Mountains" onclick="myFunction(this);">
+        </div>
+        <div class="column">
+          <img src="./new_imgs/Bard.jpg" alt="Lights" onclick="myFunction(this);">
+        </div>
+        <div class="column">
+            <img src="./new_imgs/Bard.jpg" alt="Lights" onclick="myFunction(this);">
+          </div>
+      </div>
+
+      <div class="row">
+        <div class="column">
+          <img src="./new_imgs/Aatrox.jpg" alt="Nature" onclick="myFunction(this);">
+        </div>
+        <div class="column">
+          <img src="./new_imgs/Ahri.jpg" alt="Snow" onclick="myFunction(this);">
+        </div>
+        <div class="column">
+          <img src="./new_imgs/Amumu.jpg" alt="Mountains" onclick="myFunction(this);">
+        </div>
+        <div class="column">
+          <img src="./new_imgs/Bard.jpg" alt="Lights" onclick="myFunction(this);">
+        </div>
+        <div class="column">
+            <img src="./new_imgs/Bard.jpg" alt="Lights" onclick="myFunction(this);">
+          </div>
+      </div>
+
+      <div class="row">
+        <div class="column">
+          <img src="./new_imgs/Aatrox.jpg" alt="Nature" onclick="myFunction(this);">
+        </div>
+        <div class="column">
+          <img src="./new_imgs/Ahri.jpg" alt="Snow" onclick="myFunction(this);">
+        </div>
+        <div class="column">
+          <img src="./new_imgs/Amumu.jpg" alt="Mountains" onclick="myFunction(this);">
+        </div>
+        <div class="column">
+          <img src="./new_imgs/Bard.jpg" alt="Lights" onclick="myFunction(this);">
+        </div>
+        <div class="column">
+            <img src="./new_imgs/Bard.jpg" alt="Lights" onclick="myFunction(this);">
+          </div>
+      </div> -->
+
+        <!-- The expanding image container -->
+    <div class="container">
+        <!-- Close the image -->
+        <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+    
+        <!-- Expanded image -->
+        <img id="expandedImg" style="width:100%">
+    
+        <!-- Image text -->
+        <div id="imgtext"></div>
+    </div>
+
+    <!-- <div class="dropdown">
+      <button onclick="myFunction()" class="dropbtn">Dropdown</button>
+      <div id="myDropdown" class="dropdown-content">
+        <a href="#">Link 1</a>
+        <a href="#">Link 2</a>
+        <a href="#">Link 3</a>
+      </div>
+    </div> -->
+
+</body>
+</html>

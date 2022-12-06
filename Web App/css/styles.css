@@ -1,0 +1,368 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  html,
+  body {
+    height: 100%;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  }
+  
+  #container {
+    display: flex;
+    background-color: black;
+    height: 100%;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  #game {
+    width: 100%;
+    max-width: 800px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+.select {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  max-width: 300px;
+  gap: 1px;
+}
+
+.select__item {
+  padding: 10px;
+  cursor: pointer;
+  font-family: "Heebo", sans-serif;
+  text-align: center;
+  border-radius: 3px;
+  background: #eeeeee;
+  transition: background 0.1s;
+}
+
+.select__item--selected {
+  background: #009578;
+  color: #ffffff;
+}
+
+  
+  header {
+    border-bottom: 1px solid rgb(58, 58, 60);
+  }
+  
+  .title {
+    color: gainsboro;
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin: 0.4rem 0 0.4rem 0;
+    text-align: center;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  }
+
+  #content {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    overflow: hidden;
+    text-align: center;
+  }
+
+  #blue_select {
+    min-height: 2ch;
+    max-width: 60ch;
+    width:40%;
+    border: 1px solid var(--select-border);
+    border-radius: 0.2em;
+    padding: 0.25em 0.5em;
+    font-size: 1vb;
+    cursor: pointer;
+    line-height: 1.1;
+    background-color: rgb(109, 143, 205);
+    color:#ffffff;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    overflow: hidden;
+    margin-top: 10%;
+    margin-bottom: 1.5%;
+  }
+
+  #red_select {
+    min-height: 2ch;
+    max-width: 60ch;
+    width:40%;
+    border: 1px solid var(--select-border);
+    border-radius: 0.2em;
+    padding: 0.25em 0.5em;
+    font-size: 1vb;
+    cursor: pointer;
+    line-height: 1.1;
+    background-color: rgb(240, 97, 97);
+    color:#ffffff;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    overflow: hidden;
+    margin-bottom: 1.5%;
+  }
+
+  #model_select {
+    min-height: 2ch;
+    width:40%;
+    max-width: 60ch;
+    border: 1px solid var(--select-border);
+    border-radius: 0.2em;
+    padding: 0.25em 0.5em;
+    font-size: 1vb;
+    cursor: pointer;
+    line-height: 1.1;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    overflow: hidden;
+    margin-bottom: 15%;
+  }
+
+  #board-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    overflow: hidden;
+    vertical-align: middle;
+  }
+  
+
+  #board {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 5px;
+    padding: 5px;
+    box-sizing: border-box;
+  }
+  
+  .redsquare {
+    border: 2px solid rgb(240, 97, 97);
+    min-width: 60px;
+    min-height: 60px;
+    font-size: 50px;
+    font-weight: bold;
+    color: gainsboro;
+    text-transform: uppercase;
+    padding-right: 100;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .redlowersquare {
+    border: 2px solid rgb(161, 89, 89);
+    min-width: 60px;
+    min-height: 60px;
+    font-size: 50px;
+    font-weight: bold;
+    color: gainsboro;
+    text-transform: uppercase;
+    padding-right: 100;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .lowersquare {
+    border: 2px solid rgb(89, 105, 135);
+    min-width: 60px;
+    min-height: 60px;
+    font-size: 50px;
+    font-weight: bold;
+    color: gainsboro;
+    text-transform: uppercase;
+    margin-bottom: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 100;
+  }
+
+  .bluesquare img{
+    max-width: 60px;
+    max-height: 60px;
+  }
+
+  .lowersquare img{
+    max-width: 60px;
+    max-height: 60px;
+  }
+
+  .redsquare img{
+    max-width: 60px;
+    max-height: 60px;
+  }
+
+  .redlowersquare img{
+    max-width: 60px;
+    max-height: 60px;
+  }
+
+  .bluesquare {
+    border: 2px solid rgb(109, 143, 205);
+    min-width: 60px;
+    min-height: 60px;
+    font-size: 50px;
+    font-weight: bold;
+    color: gainsboro;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 100;
+  }
+
+
+  
+  #keyboard-container {
+    height: 200px;
+  }
+  
+  .keyboard-row {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 0 auto 8px;
+    touch-action: manipulation;
+  }
+  
+  .keyboard-row button {
+    font-family: inherit;
+    font-weight: bold;
+    border: 0;
+    padding: 0;
+    height: 58px;
+    cursor: pointer;
+    background-color: rgb(129, 131, 132);
+    color: rgb(215, 218, 220);
+    flex-grow: 1;
+    text-transform: uppercase;
+    margin-right: 6px;
+    border-radius: 4px;
+    user-select: none;
+  }
+  
+  .keyboard-row button.wide-button {
+    flex-grow: 1.5;
+  }
+  
+  .spacer-half {
+    flex-grow: 0.5;
+  }
+
+  /* The grid: Four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 15%;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+/* Style the images inside the grid */
+.column img {
+  opacity: 0.8;
+  width: 70%;
+  border: 2px solid rgb(109, 143, 205);
+  cursor: pointer;
+}
+
+.column img:hover {
+  opacity: 30;
+}
+
+.row{
+  margin-left: 70px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+
+  display: table;
+  clear: both;
+}
+
+/* The expanding image container (positioning is needed to position the close button and the text) */
+.container {
+  position: relative;
+  display: none;
+}
+
+/* Expanding image text */
+#imgtext {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: white;
+  font-size: 20px;
+}
+
+/* Closable button inside the image */
+.closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+
+/* Dropdown Button */
+.dropbtn {
+  background-color: #23a01d;
+  color: white;
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Dropdown button on hover & focus */
+.dropbtn:hover, .dropbtn:focus {
+  background-color: #2980B9;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+  margin-right: 100;
+  margin-bottom: 100;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:block;}

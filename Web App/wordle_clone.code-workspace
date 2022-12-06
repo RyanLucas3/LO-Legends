@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/tiles 2"
+		},
+		{
+			"path": "../../Downloads/LO-Legends-main/new_imgs"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "wordle_clone"
+	}
+}
