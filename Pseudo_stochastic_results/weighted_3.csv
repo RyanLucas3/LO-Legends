@@ -1,91 +1,91 @@
-Blue_Team,Red_Team,Blue_Utility,Red_Utility
-MAD Lions,Team Vitality,30.01331214627936,19.761367521081553
-MAD Lions,Rogue,31.577927192937356,23.195624873072667
-MAD Lions,SK Gaming,26.476107564004366,18.692827442864616
-MAD Lions,Excel Esports,28.764864546409644,20.553764274596517
-MAD Lions,G2 Esports,29.80057251198774,21.559629817538323
-MAD Lions,Astralis,28.803026900644326,20.51155092946748
-MAD Lions,Misfits Gaming,30.208093415374414,21.635675545980707
-MAD Lions,Fnatic,30.429760781490618,22.709006757488385
-MAD Lions,Team BDS,26.77765282505195,19.012984476348247
-Team Vitality,MAD Lions,29.72596986666203,21.124052446086104
-Team Vitality,Rogue,32.52082839006389,22.901883098229142
-Team Vitality,SK Gaming,28.733849558831484,18.855747677490857
-Team Vitality,Excel Esports,29.622169113289036,20.401417801985268
-Team Vitality,G2 Esports,30.643834027391403,21.333705588356093
-Team Vitality,Astralis,29.773832794076128,19.976229059618262
-Team Vitality,Misfits Gaming,31.247663709384263,20.81893254969128
-Team Vitality,Fnatic,31.609210160082736,22.579630130926788
-Team Vitality,Team BDS,27.36410756128631,18.272224959966454
-Rogue,MAD Lions,31.70147528704358,24.23247586451583
-Rogue,Team Vitality,32.941615632946394,22.636128353302297
-Rogue,SK Gaming,30.558930558374104,21.992526506504213
-Rogue,Excel Esports,31.998114255579356,24.17497896530285
-Rogue,G2 Esports,31.39537970363372,24.592819720132958
-Rogue,Astralis,31.522251341289568,22.711981189147043
-Rogue,Misfits Gaming,33.59025537169168,24.436642419803537
-Rogue,Fnatic,33.59887318503501,25.979464916955344
-Rogue,Team BDS,29.556821896409836,21.856283566701038
-SK Gaming,MAD Lions,26.33932058516458,18.594218142837637
-SK Gaming,Team Vitality,28.409132103603397,17.545574181392823
-SK Gaming,Rogue,29.704996687978547,21.50191800319766
-SK Gaming,Excel Esports,26.81487835259013,18.231668361323134
-SK Gaming,G2 Esports,27.725410528949638,19.62241257032519
-SK Gaming,Astralis,26.87896043726838,18.11615305921687
-SK Gaming,Misfits Gaming,28.36118778322038,19.608523438175066
-SK Gaming,Fnatic,29.114942418407956,21.10768542220107
-SK Gaming,Team BDS,24.048914981746915,16.45790956023056
-Excel Esports,MAD Lions,27.71315737136323,20.454793702726803
-Excel Esports,Team Vitality,29.57289368029341,19.25505856012653
-Excel Esports,Rogue,31.36134346957396,22.74864446439361
-Excel Esports,SK Gaming,26.892435184358664,18.483061879470096
-Excel Esports,G2 Esports,29.43260138365597,20.97450386495168
-Excel Esports,Astralis,28.454483453216874,20.493738217811835
-Excel Esports,Misfits Gaming,29.61803505670771,21.47160530521774
-Excel Esports,Fnatic,30.24720526311996,22.438087165062278
-Excel Esports,Team BDS,26.246366293338298,18.727686588471897
-G2 Esports,MAD Lions,29.725588832818502,21.490461684957914
-G2 Esports,Team Vitality,31.191839274107927,19.94095052233183
-G2 Esports,Rogue,32.03226079743487,23.688465934294
-G2 Esports,SK Gaming,28.51182515436207,19.48720513405278
-G2 Esports,Excel Esports,29.628309419605863,21.430426830174977
-G2 Esports,Astralis,29.727584133542603,21.011041448545594
-G2 Esports,Misfits Gaming,31.600796815143166,22.460255392971042
-G2 Esports,Fnatic,31.621601058370963,23.33015949670517
-G2 Esports,Team BDS,27.798707981168327,19.426110793278806
-Astralis,MAD Lions,28.414147940912233,19.360525633315024
-Astralis,Team Vitality,29.753091312745838,18.534502137307616
-Astralis,Rogue,31.541127823710923,22.422238590670545
-Astralis,SK Gaming,27.259295688176877,17.285853843704263
-Astralis,Excel Esports,28.733902569160144,19.435808628403766
-Astralis,G2 Esports,29.62048145508981,20.407902642973305
-Astralis,Misfits Gaming,30.144419269253703,20.2293248845244
-Astralis,Fnatic,30.172285951832986,21.487347915923696
-Astralis,Team BDS,26.512284044771,17.41583656988137
-Misfits Gaming,MAD Lions,29.15075458350677,22.883848131186358
-Misfits Gaming,Team Vitality,31.45292765347925,21.75048050518783
-Misfits Gaming,Rogue,33.29083287540167,25.921157208066333
-Misfits Gaming,SK Gaming,27.981004760471325,20.750524659448942
-Misfits Gaming,Excel Esports,30.475865793503296,23.18721018114684
-Misfits Gaming,G2 Esports,31.238206047113692,23.895154590233737
-Misfits Gaming,Astralis,30.158590081524842,22.33826931279128
-Misfits Gaming,Fnatic,32.48831198348394,25.01298763143253
-Misfits Gaming,Team BDS,28.3469168159348,21.0129625644176
-Fnatic,MAD Lions,30.547079171828408,22.583821628893507
-Fnatic,Team Vitality,32.04416751163607,21.250917870969957
-Fnatic,Rogue,33.549380416291065,25.097825540974164
-Fnatic,SK Gaming,29.576418574651953,21.006179846741016
-Fnatic,Excel Esports,30.75644092232461,22.752026710659848
-Fnatic,G2 Esports,31.673062148676657,23.238659450232344
-Fnatic,Astralis,30.37788669444241,22.230687067406485
-Fnatic,Misfits Gaming,32.637857036833054,23.315355977360824
-Fnatic,Team BDS,28.53586238697412,20.270046133563525
-Team BDS,MAD Lions,26.740695393230713,19.475900708731547
-Team BDS,Team Vitality,27.626702756241393,17.464503894103633
-Team BDS,Rogue,29.75860030223485,21.422417915726108
-Team BDS,SK Gaming,25.638144646558086,16.847044905256432
-Team BDS,Excel Esports,26.22683407334349,18.697573348475686
-Team BDS,G2 Esports,27.896791650501335,19.64378942876992
-Team BDS,Astralis,26.748638582975627,17.918587642345226
-Team BDS,Misfits Gaming,28.56886300854854,19.1886357576346
-Team BDS,Fnatic,28.940021959107426,21.28243779976509
+Blue_Team,Red_Team,Blue_Utility,Red_Utility,BS1,BS2,BS3,BS4,BS5,RS1,RS2,RS3,RS4,RS5,BB1,BB2,BB3,BB4,BB5,RB1,RB2,RB3,RB4,RB5
+MAD Lions,Team Vitality,30.02058901628145,19.76215450944147,Nautilus,Lee Sin,Taliyah,Aatrox,Sivir,Ahri,Rakan,Jayce,Jhin,Viego,Gnar,Aphelios,Tahm Kench,Xin Zhao,Trundle,Jinx,Lucian,Zeri,Kalista,Draven
+MAD Lions,Rogue,31.58664984699823,23.18735576524979,Nautilus,Lee Sin,Taliyah,Aatrox,Sivir,Xin Zhao,Sylas,Rakan,Jayce,Ahri,Jarvan IV,Ornn,Aphelios,Azir,Viktor,Zeri,Jinx,Kalista,Lucian,Karthus
+MAD Lions,SK Gaming,26.47719308475214,18.705812162526875,Lee Sin,Taliyah,Aatrox,Yuumi,Draven,Corki,Graves,Rakan,Karthus,Hecarim,Jinx,Nautilus,Leona,Jarvan IV,LeBlanc,Zeri,Aphelios,Kalista,Lucian,Sivir
+MAD Lions,Excel Esports,28.774228792877455,20.532934214455434,Nautilus,Lee Sin,Aphelios,Taliyah,Aatrox,Lulu,Draven,Lissandra,Gnar,Jarvan IV,Jinx,Xin Zhao,Wukong,Yuumi,Gwen,Lucian,Kalista,Zeri,Karthus,Twitch
+MAD Lions,G2 Esports,29.802215391053267,21.550184849829513,Nautilus,Jinx,Lee Sin,Taliyah,Aatrox,Trundle,Renata Glasc,Corki,Twitch,Gwen,Ahri,Jarvan IV,Aphelios,Sylas,Rakan,Zeri,Kalista,Lucian,Draven,Sivir
+MAD Lions,Astralis,28.80369555350966,20.526572753380798,Nautilus,Lee Sin,Aphelios,Taliyah,Aatrox,Gangplank,Jarvan IV,Pyke,Ryze,Twitch,Vex,Viego,Trundle,Leona,Rakan,Zeri,Jinx,Kalista,Lucian,Sivir
+MAD Lions,Misfits Gaming,30.211656268854263,21.600577598589826,Nautilus,Aphelios,Wukong,Taliyah,Aatrox,Sylas,Jhin,Gwen,Rakan,Xin Zhao,Lee Sin,Leona,Jinx,Gnar,Sivir,Zeri,Lucian,Draven,Karthus,Kalista
+MAD Lions,Fnatic,30.419769147318007,22.6963757323039,Nautilus,Lee Sin,Taliyah,Aatrox,Draven,Thresh,Volibear,Jayce,Twisted Fate,Jhin,Viego,Zeri,Aphelios,Trundle,Gwen,Jinx,Lucian,Kalista,Karthus,Sivir
+MAD Lions,Team BDS,26.772388664626074,19.016427494810742,Nautilus,Lee Sin,Taliyah,Aatrox,Draven,Gnar,Braum,Jarvan IV,Varus,Ryze,Xin Zhao,Aphelios,Ezreal,LeBlanc,Karma,Jinx,Lucian,Zeri,Sivir,Kalista
+Team Vitality,MAD Lions,29.73135139503187,21.099073357542586,Gnar,Tahm Kench,Xin Zhao,Ahri,Xayah,Viego,Kalista,Rakan,Ornn,Sylas,Nautilus,Jinx,Lee Sin,Wukong,Taliyah,Zeri,Sivir,Aphelios,Lucian,Jhin
+Team Vitality,Rogue,32.523330950103535,22.89622796929454,Gnar,Tahm Kench,Xin Zhao,Ahri,Xayah,Yuumi,Jinx,Viktor,Gwen,Wukong,Jarvan IV,Ornn,Rakan,Azir,Trundle,Zeri,Aphelios,Sivir,Lucian,Jhin
+Team Vitality,SK Gaming,28.73613624630064,18.842946383314025,Gnar,Tahm Kench,Xin Zhao,Ahri,Xayah,Viktor,Rakan,Graves,Lee Sin,Karthus,Jinx,Nautilus,Leona,Jarvan IV,LeBlanc,Aphelios,Zeri,Jhin,Gwen,Sivir
+Team Vitality,Excel Esports,29.60865439878591,20.41124546478718,Gnar,Tahm Kench,Trundle,Ahri,Xayah,Zeri,Yuumi,Sejuani,Volibear,Corki,Jinx,Xin Zhao,Wukong,Gwen,Lissandra,Lucian,Aphelios,Jhin,Lee Sin,Viego
+Team Vitality,G2 Esports,30.644170155451278,21.339777642748206,Gnar,Tahm Kench,Xin Zhao,Orianna,Xayah,Nautilus,Sivir,Aatrox,Wukong,Zoe,Ahri,Jarvan IV,Aphelios,Trundle,Sylas,Jinx,Zeri,Jhin,Gwen,Lee Sin
+Team Vitality,Astralis,29.771008161672317,19.98935518349373,Gnar,Tahm Kench,Xin Zhao,Ahri,Xayah,Ornn,Jhin,Wukong,Pyke,Sylas,Vex,Viego,Trundle,Leona,Rakan,Jinx,Aphelios,Lucian,Sivir,Gwen
+Team Vitality,Misfits Gaming,31.239996046647175,20.79548281958955,Gnar,Aphelios,Tahm Kench,Xin Zhao,Ahri,Rakan,Sylas,Twitch,Poppy,Sejuani,Lee Sin,Leona,Jinx,Ornn,Akali,Zeri,Lucian,Sivir,Gwen,Wukong
+Team Vitality,Fnatic,31.608185755300788,22.579985678428248,Gnar,Tahm Kench,Xin Zhao,Ahri,Xayah,Ornn,Nautilus,Viktor,Volibear,Draven,Viego,Zeri,Aphelios,Trundle,LeBlanc,Jinx,Sivir,Lucian,Jhin,Gwen
+Team Vitality,Team BDS,27.365968497825,18.26212450218894,Gnar,Tahm Kench,Trundle,Ahri,Xayah,Twitch,Viego,Leona,Kennen,Swain,Xin Zhao,Aphelios,Ezreal,LeBlanc,Jarvan IV,Jinx,Lucian,Zeri,Gwen,Wukong
+Rogue,MAD Lions,31.71072832863607,24.231919544303786,Jarvan IV,Ornn,Rakan,Azir,Caitlyn,Gwen,Aphelios,Lee Sin,Twisted Fate,Yuumi,Nautilus,Jinx,Zeri,Taliyah,Aatrox,Lucian,Kalista,Sivir,Wukong,Trundle
+Rogue,Team Vitality,32.94299265343343,22.63836752988564,Jarvan IV,Ornn,Rakan,Azir,Caitlyn,Wukong,Gwen,Corki,Akali,Renata Glasc,Gnar,Aphelios,Tahm Kench,Xin Zhao,Trundle,Lucian,Jinx,Zeri,Jhin,Sivir
+Rogue,SK Gaming,30.552736722487538,22.009538545115298,Jarvan IV,Ornn,Rakan,Azir,Caitlyn,Alistar,Hecarim,Gnar,Jhin,Sylas,Jinx,Nautilus,Leona,LeBlanc,Renata Glasc,Lucian,Aphelios,Kalista,Sivir,Wukong
+Rogue,Excel Esports,31.998376497317384,24.171760946518038,Jarvan IV,Ornn,Rakan,Azir,Lucian,Lissandra,Draven,Nami,Trundle,Gnar,Jinx,Xin Zhao,Wukong,Yuumi,Gwen,Kalista,Zeri,Aphelios,Jhin,Lee Sin
+Rogue,G2 Esports,31.398745677654126,24.57738755329699,Ornn,Rakan,Azir,Lucian,Xin Zhao,Nautilus,Gnar,Lissandra,Twitch,Volibear,Ahri,Jarvan IV,Aphelios,Trundle,Sylas,Zeri,Kalista,Jinx,Jhin,Sivir
+Rogue,Astralis,31.526870121257076,22.72134819726557,Jarvan IV,Ornn,Aphelios,Azir,Nami,Jhin,Volibear,Ryze,Pyke,Kennen,Vex,Viego,Trundle,Leona,Rakan,Zeri,Lucian,Kalista,Wukong,Xin Zhao
+Rogue,Misfits Gaming,33.594344583551994,24.44799200757426,Jarvan IV,Ornn,Aphelios,Azir,Nami,Xin Zhao,Gwen,Rakan,Twitch,Corki,Lee Sin,Leona,Jinx,Sylas,Gnar,Lucian,Zeri,Sivir,Wukong,Trundle
+Rogue,Fnatic,33.60095139502061,25.98551493803378,Jarvan IV,Ornn,Rakan,Azir,Caitlyn,Nami,Jhin,Volibear,Jayce,Sylas,Viego,Aphelios,Trundle,Gwen,LeBlanc,Zeri,Kalista,Lucian,Jinx,Xin Zhao
+Rogue,Team BDS,29.56205174385137,21.850202870903146,Jarvan IV,Ornn,Rakan,Azir,Caitlyn,Leona,Ryze,Hecarim,Jayce,Twitch,Xin Zhao,Aphelios,Ezreal,LeBlanc,Karma,Kalista,Jinx,Lucian,Zeri,Jhin
+SK Gaming,MAD Lions,26.338119587671653,18.58637818182825,Leona,Jarvan IV,LeBlanc,Gnar,Ezreal,Gwen,Lee Sin,Sylas,Rakan,Lucian,Nautilus,Jinx,Zeri,Wukong,Taliyah,Kalista,Aphelios,Sivir,Karthus,Samira
+SK Gaming,Team Vitality,28.410325668127985,17.51245235964494,Nautilus,Jarvan IV,LeBlanc,Graves,Ezreal,Gwen,Renata Glasc,Ahri,Sivir,Wukong,Gnar,Aphelios,Tahm Kench,Xin Zhao,Trundle,Zeri,Kalista,Jinx,Karthus,Samira
+SK Gaming,Rogue,29.702572924693435,21.530853408747383,Jinx,Nautilus,LeBlanc,Lee Sin,Graves,Viktor,Sivir,Trundle,Nami,Renekton,Jarvan IV,Ornn,Rakan,Azir,Gnar,Kalista,Aphelios,Draven,Samira,Zeri
+SK Gaming,Excel Esports,26.816937186204544,18.226916306697078,Nautilus,LeBlanc,Lee Sin,Graves,Ezreal,Jarvan IV,Lucian,Lulu,Gnar,Corki,Jinx,Xin Zhao,Wukong,Yuumi,Gwen,Aphelios,Draven,Sivir,Karthus,Zeri
+SK Gaming,G2 Esports,27.725484686615054,19.618782581566773,Nautilus,LeBlanc,Lee Sin,Gnar,Ezreal,Corki,Lulu,Lucian,Ornn,Wukong,Ahri,Jarvan IV,Aphelios,Trundle,Sylas,Zeri,Jinx,Sivir,Kalista,Karthus
+SK Gaming,Astralis,26.880119054850837,18.119907676356373,Nautilus,Jarvan IV,LeBlanc,Gnar,Ezreal,Pyke,Volibear,Zeri,Sylas,Gangplank,Vex,Viego,Trundle,Leona,Rakan,Jinx,Kalista,Draven,Aphelios,Sivir
+SK Gaming,Misfits Gaming,28.366362756312963,19.602864414635892,Nautilus,Jarvan IV,LeBlanc,Graves,Ezreal,Ornn,Sivir,Poppy,Rakan,Ahri,Lee Sin,Leona,Jinx,Sylas,Gnar,Kalista,Zeri,Aphelios,Draven,Samira
+SK Gaming,Fnatic,29.107497593287704,21.098403596280836,Jinx,Nautilus,Jarvan IV,LeBlanc,Gnar,Ornn,Trundle,Sylas,Jhin,Thresh,Viego,Zeri,Aphelios,Gwen,Lucian,Kalista,Draven,Karthus,Sivir,Lee Sin
+SK Gaming,Team BDS,24.06664795189593,16.430412813908614,Nautilus,Jarvan IV,LeBlanc,Gnar,Caitlyn,Ahri,Leona,Varus,Hecarim,Akali,Xin Zhao,Aphelios,Ezreal,Karma,Viego,Jinx,Draven,Zeri,Sivir,Kalista
+Excel Esports,MAD Lions,27.710783642835565,20.4802064786034,Xin Zhao,Yuumi,Gwen,Lissandra,Nilah,Sivir,Sylas,Aatrox,Rakan,Viego,Nautilus,Jinx,Lee Sin,Wukong,Taliyah,Lucian,Zeri,Aphelios,Kalista,Draven
+Excel Esports,Team Vitality,29.5835394372202,19.23579763436916,Jinx,Xin Zhao,Yuumi,Lissandra,Gangplank,Ryze,Gwen,Jhin,Viego,Nautilus,Gnar,Aphelios,Tahm Kench,Trundle,Ahri,Lucian,Kalista,Zeri,Twitch,Samira
+Excel Esports,Rogue,31.368902286283195,22.739936073497507,Xin Zhao,Yuumi,Gwen,Lissandra,Lucian,Sylas,Rakan,Trundle,Renekton,Aatrox,Jarvan IV,Ornn,Aphelios,Azir,Viktor,Jinx,Zeri,Draven,Kalista,Sivir
+Excel Esports,SK Gaming,26.894683575775883,18.480661072270117,Xin Zhao,Yuumi,Gwen,Lissandra,Sivir,Draven,Sylas,Gnar,Alistar,Poppy,Jinx,Nautilus,Leona,Jarvan IV,LeBlanc,Zeri,Kalista,Aphelios,Twitch,Lucian
+Excel Esports,G2 Esports,29.434694681656204,20.956909126973816,Jinx,Xin Zhao,Yuumi,Corki,Gangplank,Viego,Rakan,Lissandra,Gwen,Aatrox,Ahri,Jarvan IV,Aphelios,Trundle,Sylas,Zeri,Lucian,Draven,Twitch,Kalista
+Excel Esports,Astralis,28.454223861328284,20.492766257265128,Xin Zhao,Yuumi,Gwen,Lissandra,Sivir,Wukong,Jhin,Graves,Nautilus,Ryze,Vex,Viego,Trundle,Leona,Rakan,Lucian,Jinx,Aphelios,Draven,Zeri
+Excel Esports,Misfits Gaming,29.62234660352504,21.46628860704425,Xin Zhao,Yuumi,Gwen,Lissandra,Nilah,Corki,Rakan,Gnar,Poppy,Aatrox,Lee Sin,Leona,Sylas,Sivir,Aphelios,Jinx,Zeri,Kalista,Lucian,Draven
+Excel Esports,Fnatic,30.255098385666177,22.424081408619543,Xin Zhao,Yuumi,Gwen,Lissandra,Nilah,Jhin,Ornn,Volibear,Twisted Fate,Nautilus,Viego,Zeri,Aphelios,Trundle,LeBlanc,Lucian,Jinx,Draven,Sivir,Twitch
+Excel Esports,Team BDS,26.250640208934886,18.72239646176416,Wukong,Yuumi,Lissandra,Gangplank,Sivir,Gwen,Nautilus,Ryze,Jhin,Viego,Xin Zhao,Aphelios,Ezreal,LeBlanc,Jarvan IV,Lucian,Kalista,Jinx,Zeri,Draven
+G2 Esports,MAD Lions,29.728014122689206,21.48099352530326,Ahri,Jarvan IV,Rakan,Gwen,Xayah,Wukong,Sylas,Aatrox,Alistar,Varus,Nautilus,Jinx,Zeri,Lee Sin,Taliyah,Lucian,Aphelios,Kalista,Draven,Sivir
+G2 Esports,Team Vitality,31.197880099088557,19.953532989106705,Ahri,Jarvan IV,Rakan,Yone,Xayah,Trundle,Ryze,Gwen,Sivir,Nautilus,Gnar,Aphelios,Tahm Kench,Xin Zhao,Orianna,Jinx,Draven,Zeri,Kalista,Lucian
+G2 Esports,Rogue,32.0251338763141,23.678712555522907,Ahri,Trundle,Rakan,Gwen,Xayah,Taliyah,Kalista,Yuumi,Renekton,Volibear,Jarvan IV,Ornn,Aphelios,Azir,Viktor,Jinx,Lucian,Zeri,Draven,Twitch
+G2 Esports,SK Gaming,28.520785234761295,19.48631280131982,Ahri,Jarvan IV,Aphelios,Rakan,Gwen,Renata Glasc,Hecarim,Sylas,Samira,Aatrox,Jinx,Nautilus,Leona,LeBlanc,Lee Sin,Zeri,Lucian,Draven,Sivir,Jhin
+G2 Esports,Excel Esports,29.63108702233506,21.441427377268493,Ahri,Jarvan IV,Rakan,Gnar,Xayah,Sejuani,Lissandra,Nilah,Lulu,Viego,Jinx,Xin Zhao,Wukong,Yuumi,Gwen,Lucian,Zeri,Aphelios,Sivir,Draven
+G2 Esports,Astralis,29.735513688446723,21.02165675518963,Ahri,Jarvan IV,Aphelios,Gwen,Lulu,Twitch,Pyke,Gangplank,Wukong,Sylas,Vex,Viego,Trundle,Leona,Rakan,Lucian,Zeri,Jinx,Draven,Kalista
+G2 Esports,Misfits Gaming,31.597191348331286,22.47982430503128,Ahri,Jarvan IV,Rakan,Yone,Draven,Aphelios,Gwen,Zoe,Xin Zhao,Thresh,Lee Sin,Leona,Sylas,Gnar,Ornn,Lucian,Jinx,Zeri,Sivir,Jhin
+G2 Esports,Fnatic,31.62447110958661,23.338903795269193,Ahri,Jarvan IV,Rakan,Gnar,Xayah,Jhin,Trundle,Renata Glasc,Jayce,Twisted Fate,Viego,Zeri,Aphelios,Gwen,LeBlanc,Lucian,Jinx,Draven,Twitch,Kalista
+G2 Esports,Team BDS,27.802363351055096,19.43531994382001,Ahri,Jarvan IV,Rakan,Gwen,Xayah,Varus,Swain,Hecarim,Braum,Akali,Xin Zhao,Aphelios,Ezreal,LeBlanc,Karma,Jinx,Draven,Zeri,Sivir,Lucian
+Astralis,MAD Lions,28.4127948592716,19.375470511753694,Vex,Viego,Leona,Graves,Xayah,Gnar,Kalista,Trundle,Twisted Fate,Yuumi,Nautilus,Jinx,Lee Sin,Wukong,Taliyah,Zeri,Aphelios,Twitch,Lucian,Jhin
+Astralis,Team Vitality,29.75278461025713,18.570299185469622,Vex,Viego,Leona,Graves,Xayah,Ryze,Trundle,Lucian,Nautilus,Gangplank,Gnar,Aphelios,Tahm Kench,Xin Zhao,Ahri,Zeri,Jinx,Twitch,Jhin,Sivir
+Astralis,Rogue,31.540113090778085,22.417833872518262,Vex,Viego,Leona,Graves,Jinx,Sylas,Kalista,Trundle,Yuumi,Gnar,Jarvan IV,Ornn,Rakan,Azir,Viktor,Zeri,Aphelios,Lucian,Draven,Sivir
+Astralis,SK Gaming,27.264757750857367,17.28910646512741,Vex,Viego,Graves,Xayah,Tahm Kench,Sylas,Rakan,Draven,Hecarim,Gnar,Jinx,Nautilus,Leona,Jarvan IV,LeBlanc,Aphelios,Lucian,Zeri,Jhin,Twitch
+Astralis,Excel Esports,28.73024362893853,19.451658634927917,Vex,Trundle,Leona,Graves,Xayah,Viego,Nami,Lucian,Corki,Gangplank,Jinx,Xin Zhao,Wukong,Yuumi,Gwen,Aphelios,Zeri,Twitch,Jhin,Sivir
+Astralis,G2 Esports,29.615482903451788,20.416129713814676,Vex,Viego,Leona,Graves,Zeri,Sivir,Ornn,Corki,Rakan,Xin Zhao,Ahri,Jarvan IV,Jinx,Trundle,Sylas,Aphelios,Lucian,Draven,Twitch,Wukong
+Astralis,Misfits Gaming,30.152650200413728,20.22409218536354,Vex,Viego,Rakan,Graves,Zeri,Poppy,Thresh,Jhin,Gwen,Zoe,Lee Sin,Leona,Sylas,Gnar,Sivir,Aphelios,Jinx,Draven,Twitch,Lucian
+Astralis,Fnatic,30.1724155906728,21.473222157413613,Vex,Trundle,Leona,Graves,Xayah,Volibear,Ornn,Nami,Twisted Fate,Aatrox,Viego,Zeri,Aphelios,Gwen,LeBlanc,Jinx,Lucian,Draven,Twitch,Sivir
+Astralis,Team BDS,26.50610635348602,17.42740049875434,Vex,Viego,Leona,Graves,Xayah,Ryze,Jhin,Jayce,Lulu,Wukong,Xin Zhao,Aphelios,Ezreal,LeBlanc,Jinx,Zeri,Draven,Lucian,Twitch,Sivir
+Misfits Gaming,MAD Lions,29.14522379925899,22.87847840373262,Leona,Sylas,Gnar,Poppy,Xayah,Twisted Fate,Kalista,Aatrox,Rakan,Viego,Nautilus,Jinx,Zeri,Wukong,Taliyah,Aphelios,Sivir,Lee Sin,Twitch,Jhin
+Misfits Gaming,Team Vitality,31.440420738171134,21.787358513613473,Lee Sin,Leona,Sylas,Ornn,Xayah,Renata Glasc,Trundle,Ryze,Aatrox,Jayce,Gnar,Aphelios,Tahm Kench,Xin Zhao,Ahri,Jinx,Sivir,Twitch,Jhin,Zeri
+Misfits Gaming,Rogue,33.29422832507948,25.915910467139934,Lee Sin,Leona,Sylas,Gnar,Sivir,Kalista,Lulu,Volibear,Ahri,Jayce,Jarvan IV,Ornn,Rakan,Azir,Viktor,Aphelios,Jinx,Jhin,Twitch,Zeri
+Misfits Gaming,SK Gaming,27.982539160481426,20.75068057369367,Lee Sin,Sylas,Gnar,Rakan,Jhin,Gwen,Alistar,Draven,Viktor,Volibear,Jinx,Nautilus,Leona,Jarvan IV,LeBlanc,Zeri,Aphelios,Sivir,Twitch,Wukong
+Misfits Gaming,Excel Esports,30.48306102788768,23.19132380992421,Lee Sin,Leona,Sylas,Gnar,Zeri,Trundle,Sejuani,Lulu,Lucian,Ahri,Jinx,Xin Zhao,Wukong,Yuumi,Gwen,Aphelios,Jhin,Twitch,Sivir,Poppy
+Misfits Gaming,G2 Esports,31.236973521208355,23.888726436824804,Lee Sin,Leona,Sylas,Ornn,Xayah,Gnar,Corki,Viego,Sivir,Lulu,Ahri,Jarvan IV,Aphelios,Trundle,Rakan,Jinx,Zeri,Twitch,Wukong,Jhin
+Misfits Gaming,Astralis,30.16928946106419,22.322440393648115,Lee Sin,Leona,Jinx,Sylas,Gnar,Viktor,Aphelios,Graves,Pyke,Volibear,Vex,Viego,Trundle,Rakan,Wukong,Zeri,Sivir,Jhin,Xin Zhao,Poppy
+Misfits Gaming,Fnatic,32.49370603534676,24.999664248149543,Lee Sin,Leona,Sylas,Gnar,Jhin,Viktor,Lucian,Gwen,Nautilus,Xin Zhao,Viego,Aphelios,Trundle,LeBlanc,Nami,Zeri,Jinx,Sivir,Wukong,Twitch
+Misfits Gaming,Team BDS,28.34361091802928,21.038158973626793,Lee Sin,Leona,Sylas,Ornn,Xayah,Jinx,Ryze,Jarvan IV,Gnar,Nautilus,Xin Zhao,Aphelios,Ezreal,LeBlanc,Karma,Zeri,Sivir,Jhin,Wukong,Twitch
+Fnatic,MAD Lions,30.547543540452548,22.58367698460985,Viego,Aphelios,Gwen,LeBlanc,Nami,Twisted Fate,Gnar,Yuumi,Trundle,Draven,Nautilus,Zeri,Lee Sin,Wukong,Taliyah,Jinx,Lucian,Kalista,Twitch,Sivir
+Fnatic,Team Vitality,32.03239903765521,21.250961569282538,Viego,Gwen,LeBlanc,Nami,Caitlyn,Ryze,Gangplank,Thresh,Wukong,Aatrox,Gnar,Aphelios,Tahm Kench,Xin Zhao,Trundle,Zeri,Lucian,Jinx,Draven,Sivir
+Fnatic,Rogue,33.553332218969366,25.089454142178496,Viego,Gwen,LeBlanc,Renata Glasc,Caitlyn,Xin Zhao,Zeri,Nami,Ahri,Renekton,Jarvan IV,Ornn,Rakan,Azir,Viktor,Lucian,Aphelios,Jinx,Sivir,Draven
+Fnatic,SK Gaming,29.585533380637703,20.986651120936727,Viego,Zeri,Gwen,Nami,Twisted Fate,Hecarim,Sylas,Renata Glasc,Aphelios,Aatrox,Jinx,Nautilus,Leona,Jarvan IV,LeBlanc,Lucian,Kalista,Draven,Twitch,Sivir
+Fnatic,Excel Esports,30.745172480287675,22.784012715668005,Viego,Gwen,LeBlanc,Nami,Caitlyn,Corki,Draven,Trundle,Gnar,Lulu,Jinx,Xin Zhao,Wukong,Yuumi,Lissandra,Zeri,Aphelios,Lucian,Kalista,Twitch
+Fnatic,G2 Esports,31.679046268460063,23.228336201867812,Viego,Gwen,LeBlanc,Nami,Caitlyn,Ornn,Xin Zhao,Lissandra,Rakan,Jhin,Ahri,Jarvan IV,Jinx,Trundle,Sylas,Lucian,Aphelios,Zeri,Sivir,Draven
+Fnatic,Astralis,30.373500955617846,22.24165044264654,Zeri,Gwen,LeBlanc,Nami,Poppy,Draven,Leona,Volibear,Ornn,Viktor,Vex,Viego,Trundle,Rakan,Graves,Lucian,Aphelios,Jinx,Sivir,Jhin
+Fnatic,Misfits Gaming,32.63941733620652,23.2859883743625,Viego,Gwen,LeBlanc,Nami,Caitlyn,Ornn,Aphelios,Ahri,Xin Zhao,Rakan,Lee Sin,Leona,Jinx,Sylas,Gnar,Lucian,Zeri,Draven,Twitch,Sivir
+Fnatic,Team BDS,28.53540471279777,20.2650382625699,Viego,Gwen,Lucian,Nami,Twisted Fate,Jayce,Jhin,Braum,Ryze,Hecarim,Xin Zhao,Aphelios,Ezreal,LeBlanc,Jarvan IV,Jinx,Zeri,Kalista,Sivir,Wukong
+Team BDS,MAD Lions,26.73696904524953,19.481909647914655,Xin Zhao,Ezreal,LeBlanc,Karma,Gnar,Yuumi,Twisted Fate,Kalista,Aatrox,Viego,Nautilus,Zeri,Lee Sin,Wukong,Taliyah,Jinx,Lucian,Aphelios,Sivir,Varus
+Team BDS,Team Vitality,27.631741339688254,17.48269197412828,Xin Zhao,Ezreal,LeBlanc,Karma,Sion,Corki,Jayce,Wukong,Nautilus,Aatrox,Gnar,Aphelios,Tahm Kench,Trundle,Ahri,Jinx,Zeri,Twitch,Jhin,Lucian
+Team BDS,Rogue,29.76005313245529,21.428744057520003,Xin Zhao,Ezreal,LeBlanc,Karma,Sion,Gnar,Viktor,Rakan,Volibear,Jhin,Jarvan IV,Ornn,Aphelios,Azir,Trundle,Jinx,Lucian,Twitch,Sivir,Varus
+Team BDS,SK Gaming,25.634843054095217,16.8665915053802,Xin Zhao,Ezreal,LeBlanc,Karma,Gnar,Gwen,Viktor,Kalista,Hecarim,Braum,Jinx,Nautilus,Leona,Jarvan IV,Renata Glasc,Aphelios,Zeri,Sivir,Twitch,Varus
+Team BDS,Excel Esports,26.22504576610183,18.70710850215706,Aphelios,LeBlanc,Jarvan IV,Karma,Gnar,Gangplank,Ahri,Draven,Lee Sin,Nautilus,Jinx,Xin Zhao,Wukong,Yuumi,Lissandra,Lucian,Zeri,Twitch,Sivir,Gwen
+Team BDS,G2 Esports,27.896096982497244,19.63839316498136,Xin Zhao,Ezreal,LeBlanc,Karma,Gnar,Nautilus,Trundle,Ornn,Kalista,Corki,Ahri,Jarvan IV,Aphelios,Sylas,Rakan,Zeri,Lucian,Jinx,Twitch,Sivir
+Team BDS,Astralis,26.748031530690124,17.93072918419998,Xin Zhao,Ezreal,LeBlanc,Karma,Gnar,Zeri,Ryze,Graves,Volibear,Thresh,Vex,Viego,Trundle,Leona,Rakan,Aphelios,Lucian,Twitch,Jinx,Varus
+Team BDS,Misfits Gaming,28.565483408610394,19.181286835516257,Xin Zhao,Ezreal,LeBlanc,Karma,Sion,Ahri,Poppy,Sivir,Sejuani,Rakan,Lee Sin,Leona,Jinx,Sylas,Gnar,Aphelios,Zeri,Twitch,Lucian,Jhin
+Team BDS,Fnatic,28.942004481139424,21.2822008681971,Xin Zhao,Ezreal,LeBlanc,Karma,Gnar,Renata Glasc,Lucian,Sylas,Ornn,Lee Sin,Viego,Zeri,Trundle,Gwen,Nami,Aphelios,Jinx,Twitch,Sivir,Jhin
